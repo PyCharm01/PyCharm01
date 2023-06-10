@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.google.com/search?sxsrf=APwXEddtqwfPMzMAPzHfg6CG5pblGMmVWw:1686388580428&q=data+scientist+banner+template+gif&tbm=isch&sa=X&ved=2ahUKEwjjpqiCr7j_AhVu8DgGHSv0B_kQ0pQJegQIDBAB#imgrc=RmeRQHjj6gxEyM](https://shekharchormale.netlify.app/)
+[![MasterHead]([https://www.google.com/search?sxsrf=APwXEddtqwfPMzMAPzHfg6CG5pblGMmVWw:1686388580428&q=data+scientist+banner+template+gif&tbm=isch&sa=X&ved=2ahUKEwjjpqiCr7j_AhVu8DgGHSv0B_kQ0pQJegQIDBAB#imgrc=RmeRQHjj6gxEyM])(https://shekharchormale.netlify.app/)
 <h1 align="center">Hi 👋, I'm Shekhar</h1>
 <h3 align="center">A passionate Data Scientist, frontend and backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
