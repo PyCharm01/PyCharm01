@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Gen AI**
 
 - 👨‍💻 All of my projects are available at [https://shekharchormale.netlify.app/](https://shekharchormale.netlify.app/)
 
