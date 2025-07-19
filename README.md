@@ -1,6 +1,6 @@
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://shekharchormale.netlify.app/)
 <h1 align="center">Hi 👋, I'm Shekhar</h1>
-<h3 align="center">A Passionate Data Scientist</h3>
+<h3 align="center">A Passionate Machine Learning Operations Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pycharm01&label=Profile%20views&color=0e75b6&style=flat" alt="pycharm01" /> </p>
