@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mi_Shekhar18" target="_blank"><img src="https://img.shields.io/twitter/follow/mi_Shekhar18?logo=twitter&style=for-the-badge" alt="mi_Shekhar18" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **MLOps Enineer**
 
 - 🌱 I’m currently learning **Gen AI**
 
